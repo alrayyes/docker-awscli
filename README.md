@@ -9,7 +9,7 @@ $ docker run --rm andthensome/awscli
 
 ## Tags
 
-* `andthensome/awscli:latest`: based on `python:alpine
+* `andthensome/awscli:latest` based on `python:alpine
 
 ## License
 
